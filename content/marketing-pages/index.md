@@ -1,6 +1,9 @@
 ---
 blocks:
   - template: message
+    messageHeader: This is new
+    messageBody: Awesome!
+  - template: message
     messageHeader: Welcome to the Tina Cloud Starter
     messageBody: >
       The Tina Cloud project is an opinionated approach to working with the
